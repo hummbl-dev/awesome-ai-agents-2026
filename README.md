@@ -534,6 +534,7 @@
 | Tool / Resource | Description |
 |-----------------|-------------|
 | [Credo AI](https://credo.ai) | End-to-end AI governance. EU AI Act policy packs. Model inventory. |
+| [HUMMBL Governance](https://github.com/hummbl-dev/hummbl-governance) | 25 stdlib-only Python primitives for multi-agent AI safety: kill switch, circuit breaker, cost governor, delegation tokens, audit logging. Zero dependencies. |
 | [IBM watsonx.governance](https://ibm.com/watsonx) | Enterprise AI risk, compliance, and model monitoring. |
 | [OneTrust AI Governance](https://onetrust.com) | Risk classification, consent, and compliance workflows. |
 | [Microsoft Agent Governance Toolkit](https://microsoft.com) | Runtime policy enforcement and guardrails for Azure agents. |
